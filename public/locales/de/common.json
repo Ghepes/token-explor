@@ -1,0 +1,16 @@
+{
+    "connect-wallet": "Brieftasche verbinden",
+    "view-source-code": "Code anzeigen",
+    "join-our-discord": "Tritt Discord bei",
+    "currency": "Währung",
+    "search-networks": "Suchnetzwerke",
+    "description": "Chainlist ist eine Liste von EVM-Netzwerken. Benutzer können die Informationen verwenden, um ihre Wallets und Web3-Middleware-Anbieter mit der entsprechenden Ketten-ID und Netzwerk-ID zu verbinden, um sich mit der richtigen an Kette zu verbinden.",
+    "help-info": "Benutzern helfen, sich mit EVM-betriebenen Netzwerken zu verbinden",
+    "add-your-network": "Fügen Sie Ihr Netzwerk hinzu",
+    "add-your-rpc": "Fügen Sie Ihren RPC hinzu",
+    "language": "Deutsch",
+    "add-to-metamask": "Zur Metamaske hinzufügen",
+    "add-to-imToken": "Zu imToken hinzufügen",
+    "add-to-wallet": "Zur Geldbörse hinzufügen",
+    "add-to-brave": "Zu Brave hinzufügen"
+  }
