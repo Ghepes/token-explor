@@ -190,6 +190,7 @@ function Header(props) {
       Metamask: "metamask",
       imToken: "imtoken",
       Wallet: "metamask",
+      Binance: "binance wallet",
     };
     return providerLogoList[getProvider()];
   };

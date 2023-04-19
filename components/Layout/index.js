@@ -10,12 +10,12 @@ import { useTranslation } from "next-i18next";
 export default function Layout({ changeTheme, theme, children }) {
   const { t } = useTranslation("common");
   const addNetwork = () => {
-    window.open("https://github.com/ethereum-lists/chains", "_blank");
+    window.open("https://github.com/Ghepes/token-explor", "_blank");
   };
 
   const addRpc = () => {
     window.open(
-      "https://github.com/Ersin84/token-explor/blob/main/constants/extraRpcs.json",
+      "https://github.com/Ghepes/token-explor/blob/main/constants/extraRpcs.json",
       "_blank"
     );
   };
@@ -70,7 +70,7 @@ export default function Layout({ changeTheme, theme, children }) {
               <div className={classes.socials}>
                 <a
                   className={`${classes.socialButton}`}
-                  href="https://github.com/Ersin84/token-explor"
+                  href="https://github.com/Ghepes/token-explor"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
